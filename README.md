@@ -128,6 +128,3 @@ Blockchain technology represents a paradigm shift in how we record, verify, and 
 
 ---
 
-
-
-
